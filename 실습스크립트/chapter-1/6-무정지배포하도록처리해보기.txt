@@ -11,7 +11,7 @@
 
 * 롤링 코드 업데이트 확인
   - health 체크 관련 코드 확인
-    - https://github.com/junoyoon/fastcampus-jenkins/blob/main/projects/spring-app/src/main/kotlin/com/fastcampus/demo/controller/DemoController.kt
+    - https://github.com/Eonieoli/fastcampus-jenkins/blob/main/projects/spring-app/src/main/kotlin/com/fastcampus/demo/controller/DemoController.kt
   - deploy.sh 확인
 
 * github 에 변경을 일으키고 잘 감지하여 무정지 배포하는지 확인

@@ -1,5 +1,5 @@
 * Repository fork
-  - https://github.com/junoyoon/fastcampus-jenkins 를 본인의 계정으로 Fork
+  - https://github.com/Eonieoli/fastcampus-jenkins 를 본인의 계정으로 Fork
 
 * cicd container 로 접근후 해당 repo 를 clone
 

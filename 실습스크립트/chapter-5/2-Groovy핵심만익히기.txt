@@ -56,7 +56,7 @@ def minus(a, b = 0) {
 println("minus(a, b) = ${minus(a)}" )
 
 // return 을 쓰지 않으면 마지막 평가결과가 리턴
-def multiple(a, b) {
+def multiply(a, b) {
     a * b
 }
 
@@ -69,7 +69,7 @@ d = 5
 // 한 라인에 기록되어 있고, 호출 혼란 여지가 없다면 ( ) 생략 가능
 e = multiply c, d
 println(e)
-e = multiply a=c, b=d
+e = multiply a:c, b:d
 println(e)
 
 // multiple 을 map 으로 호출
